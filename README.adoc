@@ -1,0 +1,7 @@
+= Contract module - Open Asset Management System
+
+:linkLabInsurance: https://github.com/labcabrera/lab-insurance
+
+== Introducción
+
+Módulo de contratación del proyecto {linkLabInsurance}[lab-insurance].
